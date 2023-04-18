@@ -1,0 +1,4 @@
+dependencies:
+  - librosa
+  - matplotlib
+  - numpy
