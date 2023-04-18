@@ -1,6 +1,8 @@
 # signal_correlated_noise
 Add noise to speech without changing the signal amplitude envelope.  The main function is sigcor_noise() which is in the iPython notebook sigcor.ipynb along with some demonstrations of how to use it.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keithjohnson-berkeley/signal_correlated_noise/HEAD?labpath=sigcor.ipynb) Interactive demo notebook on Binder.
+
 **sigcor_noise()** -- add signal correlated noise to an audio file by flipping the polarity of samples randomly.
         
         inputs:
